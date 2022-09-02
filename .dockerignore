@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile
+.github
+.grunt
+config.php
+.git
