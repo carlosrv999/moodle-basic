@@ -26,3 +26,9 @@ Moodle is written in PHP and JavaScript and uses an SQL database for storing
 the data.
 
 See <https://docs.moodle.org> for details of Moodle's many features.
+
+# Basic Moodle Installation
+
+## How to build this project
+
+Run docker build -t image_name:image_tag
